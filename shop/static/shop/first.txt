@@ -1,0 +1,1 @@
+This is 1st static file in shop App
